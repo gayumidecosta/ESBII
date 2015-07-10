@@ -21,5 +21,3 @@
 	         -Remote desktop
 
 #### Steps of above procedure 
-
-![Alt text](https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11694952_896623713727457_6089662013223830493_n.jpg?oh=b95fb35a3cf55ded4f469a20434daca9&oe=561BCF15)
