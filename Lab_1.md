@@ -10,17 +10,17 @@
 
 5.	Windows box
         
-           -ssh
-        
            -Remote desktop
+        
+           -ssh
 
 6.	Linux box
 
-	         -ssh
+	    -Remote desktop
 
-	         -Remote desktop
+	    -ssh
 
-#### Steps of above procedure 
+#### Steps to create windows box(Remote desktop)  
 
 ![Alt text](http://i58.tinypic.com/9izmdi.jpg)
 
