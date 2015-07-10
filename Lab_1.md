@@ -8,13 +8,13 @@
 
 4.	Create one Windows box.
 
-5.	Linux box
+5.	Windows box
         
            -ssh
         
            -Remote desktop
 
-6.	Windows box
+6.	Linux box
 
 	         -ssh
 
