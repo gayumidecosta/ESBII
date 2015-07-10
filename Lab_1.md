@@ -21,3 +21,9 @@
 	         -Remote desktop
 
 #### Steps of above procedure 
+
+![Alt text](http://i58.tinypic.com/9izmdi.jpg)
+
+![Alt text](http://i61.tinypic.com/mlr09j.png)
+
+![Alt text](http://i57.tinypic.com/2i132fo.png)
