@@ -4,9 +4,9 @@
 
 2.	Login to AWS and go to EC2.
 
-3.	Create one Linux box.
+3.	Create one Windows box.
 
-4.	Create one Windows box.
+4.	Create one Linux box.
 
 5.	Windows box
         
