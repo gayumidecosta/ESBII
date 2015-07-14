@@ -51,3 +51,5 @@
 ![Alt text](http://i60.tinypic.com/29sk0g.jpg)
 
 ![Alt text](http://i61.tinypic.com/akgb60.jpg)
+
+#####To create an AMI from an instance using the command line 
