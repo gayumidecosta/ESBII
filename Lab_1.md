@@ -64,4 +64,4 @@
 
 ![Alt text](http://i59.tinypic.com/2djctbs.jpg)
 
-#### Steps to create windows box(SSH)
+
