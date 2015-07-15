@@ -53,4 +53,42 @@
 ![Alt text](http://i61.tinypic.com/akgb60.jpg)
 
 
+
 #####To create an AMI from an instance using the command line 
+
+![Alt text](http://i60.tinypic.com/2my96c7.jpg)
+
+![Alt text](http://i62.tinypic.com/11hgx6p.jpg)
+
+![Alt text](http://i57.tinypic.com/2lvbvgi.jpg)
+
+![Alt text](http://i61.tinypic.com/b9iy3q.jpg)
+
+![Alt text](http://i57.tinypic.com/33maadl.jpg)
+
+
+
+
+####Creating an AMI from a Snapshot
+
+#####To create an AMI from a snapshot using the console 
+
+![Alt text](http://i59.tinypic.com/25qsqp0.jpg)
+
+![Alt text](http://i62.tinypic.com/2vtwgih.jpg)
+
+![Alt text](http://i60.tinypic.com/r1it7a.jpg)
+
+
+
+#####To create an AMI from a snapshot using the command line 
+
+![Alt text](http://i60.tinypic.com/2my96c7.jpg)
+
+![Alt text](http://i62.tinypic.com/11hgx6p.jpg)
+
+![Alt text](http://i57.tinypic.com/2lvbvgi.jpg)
+
+![Alt text](http://i61.tinypic.com/b9iy3q.jpg)
+
+![Alt text](http://i57.tinypic.com/33maadl.jpg)
