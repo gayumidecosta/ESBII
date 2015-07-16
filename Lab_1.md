@@ -56,7 +56,7 @@
 
 ![Alt text](http://i57.tinypic.com/2gslslc.jpg)
 
-![Alt text](http://i58.tinypic.com/2q19wkx.jpg)
+
 
 ![Alt text](http://i59.tinypic.com/123tqb6.jpg)
 
