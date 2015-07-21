@@ -2,4 +2,8 @@
 
 ##Creating a MySQL DB Instance
 
-Sign in to the AWS Management Console and open the Amazon RDS
+<ol>
+  <b><li>Sign in to the AWS Management Console and open the Amazon RDS</li><b>
+</ol>
+
+![Alt text](http://i60.tinypic.com/dvsmqr.png)
