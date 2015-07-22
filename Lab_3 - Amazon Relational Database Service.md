@@ -60,7 +60,7 @@
 
 ###Connecting to a Database on a DB Instance Running the MySQL Database Engine
 
-![Alt text](http://i61.tinypic.com/jry5v7.jpg)
+![Alt text](http://i62.tinypic.com/67jpme.jpg)
 
 ![Alt text](http://i61.tinypic.com/11sm5ur.jpg)
 
