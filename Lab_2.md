@@ -1,56 +1,58 @@
+Note : Sir, had to upadte the lab because the links to the screenshots are getting expire within next two weeks.Had to replace all the links.
+
 #Overview of the Creation Process for Amazon EBS-Backed AMIs
 
 ####Creating the AMI from an Instance
 
 #####To create an AMI from an instance using the console 
 
-![Alt text](http://i62.tinypic.com/2q8ygdi.jpg)
+![Alt text](http://i57.tinypic.com/29qd0k2.jpg)
 
-![Alt text](http://i59.tinypic.com/2iifpmu.jpg)
+![Alt text](http://i62.tinypic.com/14t53wy.jpg)
 
-![Alt text](http://i59.tinypic.com/2uemwec.jpg)
+![Alt text](http://i60.tinypic.com/2eeczmf.jpg)
 
-![Alt text](http://i58.tinypic.com/34ik4zc.jpg)
+![Alt text](http://i62.tinypic.com/4ta8i9.jpg)
 
-![Alt text](http://i60.tinypic.com/10qcvv7.jpg)
+![Alt text](http://i59.tinypic.com/r0rok9.jpg)
 
-![Alt text](http://i57.tinypic.com/jjmyhf.jpg)
+![Alt text](http://i61.tinypic.com/2zf5uv6.jpg)
 
-![Alt text](http://i61.tinypic.com/200sjmc.jpg)
+![Alt text](http://i59.tinypic.com/2m76fz8.jpg)
 
-![Alt text](http://i61.tinypic.com/2mx3b6o.jpg)
+![Alt text](http://i58.tinypic.com/1zlyliw.jpg)
 
-![Alt text](http://i62.tinypic.com/149z3mg.jpg)
+![Alt text](http://i59.tinypic.com/1zlgpw3.jpg)
 
-![Alt text](http://i62.tinypic.com/mvkfpx.jpg)
+![Alt text](http://i61.tinypic.com/2ut6dya.jpg)
 
-![Alt text](http://i61.tinypic.com/4ucbxy.jpg)
+![Alt text](http://i60.tinypic.com/6rka4p.jpg)
 
-![Alt text](http://i61.tinypic.com/xllenp.jpg)
+![Alt text](http://i62.tinypic.com/14vpqfl.jpg)
 
-![Alt text](http://i62.tinypic.com/11qle0j.jpg)
+![Alt text](http://i59.tinypic.com/2ducjzr.jpg)
 
-![Alt text](http://i58.tinypic.com/oian8l.jpg)
+![Alt text](http://i59.tinypic.com/15dxh0g.jpg)
 
-![Alt text](http://i57.tinypic.com/3355e9k.jpg)
+![Alt text](http://i62.tinypic.com/jt3n78.jpg)
 
-![Alt text](http://i58.tinypic.com/2v2b968.jpg)
+![Alt text](http://i58.tinypic.com/1iztpj.jpg)
 
-![Alt text](http://i60.tinypic.com/2eunyib.jpg)
+![Alt text](http://i60.tinypic.com/125nb61.jpg)
 
-![Alt text](http://i59.tinypic.com/166y72x.jpg)
+![Alt text](http://i60.tinypic.com/14uflnq.jpg)
 
-![Alt text](http://i60.tinypic.com/2ylsk6v.jpg)
+![Alt text](http://i57.tinypic.com/106d99y.jpg)
 
-![Alt text](http://i61.tinypic.com/25iwsxk.jpg)
+![Alt text](http://i62.tinypic.com/j7xb38.jpg)
 
-![Alt text](http://i57.tinypic.com/1ficd2.jpg)
+![Alt text](http://i62.tinypic.com/2wdubfm.jpg)
 
-![Alt text](http://i61.tinypic.com/zl2pvd.jpg)
+![Alt text](http://i58.tinypic.com/js0xsk.jpg)
 
-![Alt text](http://i60.tinypic.com/29sk0g.jpg)
+![Alt text](http://i60.tinypic.com/20f6vfc.jpg)
 
-![Alt text](http://i61.tinypic.com/akgb60.jpg)
+![Alt text](http://i57.tinypic.com/21kjpqt.jpg)
 
 
 
