@@ -22,7 +22,7 @@
 
 #### Steps to create windows box(Remote desktop)  
 
-![Alt text](http://i61.tinypic.com/mlr09j.png)
+![Alt text](http://i62.tinypic.com/yzayq.jpg)
 
 ![Alt text](http://i61.tinypic.com/mlr09j.png)
 
