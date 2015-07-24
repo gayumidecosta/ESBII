@@ -1,3 +1,5 @@
+Note : Sir, had to upadte the lab because the links to the screenshots are getting expire within next two weeks.Had to replace all the links.
+
 # Introduction to AWS
 
 1.	Create an AWS(Amazon Web Services) account.
