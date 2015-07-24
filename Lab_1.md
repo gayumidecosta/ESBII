@@ -67,24 +67,24 @@
 
 #### Steps to create Linux box
 
-![Alt text](http://i62.tinypic.com/2q8ygdi.jpg)
+![Alt text](http://i57.tinypic.com/29qd0k2.jpg)
 
-![Alt text](http://i59.tinypic.com/2iifpmu.jpg)
+![Alt text](http://i62.tinypic.com/14t53wy.jpg)
 
-![Alt text](http://i59.tinypic.com/2uemwec.jpg)
+![Alt text](http://i60.tinypic.com/2eeczmf.jpg)
 
-![Alt text](http://i58.tinypic.com/34ik4zc.jpg)
+![Alt text](http://i62.tinypic.com/4ta8i9.jpg)
 
-![Alt text](http://i60.tinypic.com/10qcvv7.jpg)
+![Alt text](http://i59.tinypic.com/r0rok9.jpg)
 
-![Alt text](http://i57.tinypic.com/jjmyhf.jpg)
+![Alt text](http://i61.tinypic.com/2zf5uv6.jpg)
 
-![Alt text](http://i61.tinypic.com/200sjmc.jpg)
+![Alt text](http://i59.tinypic.com/2m76fz8.jpg)
 
-![Alt text](http://i61.tinypic.com/2mx3b6o.jpg)
+![Alt text](http://i58.tinypic.com/1zlyliw.jpg)
 
-![Alt text](http://i62.tinypic.com/149z3mg.jpg)
+![Alt text](http://i59.tinypic.com/1zlgpw3.jpg)
 
-![Alt text](http://i62.tinypic.com/mvkfpx.jpg)
+![Alt text](http://i61.tinypic.com/2ut6dya.jpg)
 
-![Alt text](http://i61.tinypic.com/4ucbxy.jpg)
+![Alt text](http://i60.tinypic.com/6rka4p.jpg)
