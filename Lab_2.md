@@ -58,15 +58,15 @@ Note : Sir, had to upadte the lab because the links to the screenshots are getti
 
 #####To create an AMI from an instance using the command line 
 
-![Alt text](http://i60.tinypic.com/2my96c7.jpg)
+![Alt text](http://i57.tinypic.com/2jbpic7.jpg)
 
-![Alt text](http://i62.tinypic.com/11hgx6p.jpg)
+![Alt text](http://i58.tinypic.com/246p0zs.jpg)
 
-![Alt text](http://i57.tinypic.com/2lvbvgi.jpg)
+![Alt text](http://i62.tinypic.com/2d14jzr.jpg)
 
-![Alt text](http://i61.tinypic.com/b9iy3q.jpg)
+![Alt text](http://i62.tinypic.com/2u422b8.jpg)
 
-![Alt text](http://i57.tinypic.com/33maadl.jpg)
+![Alt text](http://i57.tinypic.com/3496vxg.jpg)
 
 
 
