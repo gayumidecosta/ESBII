@@ -75,11 +75,11 @@ Note : Sir, had to upadte the lab because the links to the screenshots are getti
 
 #####To create an AMI from a snapshot using the console 
 
-![Alt text](http://i59.tinypic.com/25qsqp0.jpg)
+![Alt text](http://i62.tinypic.com/2w24y6v.jpg)
 
-![Alt text](http://i62.tinypic.com/2vtwgih.jpg)
+![Alt text](http://i60.tinypic.com/5nj12h.jpg)
 
-![Alt text](http://i60.tinypic.com/r1it7a.jpg)
+![Alt text](http://i59.tinypic.com/2nhj684.jpg)
 
 
 
